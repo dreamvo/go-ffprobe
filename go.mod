@@ -1,3 +1,3 @@
-module gopkg.in/vansante/go-ffprobe.v2
+module gopkg.in/dreamvo/go-ffprobe.v2
 
 go 1.13
